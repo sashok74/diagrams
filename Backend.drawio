@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-08T04:44:16.989Z" agent="5.0 (Windows)" etag="7ibKngEzZUE26wrXf1ff" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-08T05:04:44.252Z" agent="5.0 (Windows)" etag="-4Kxq4CQ_dkwd9pV9da4" version="20.5.3" type="github" pages="2">
   <diagram id="Nt1I0_a-7QM22VSomyQ9" name="набросок ">
     <mxGraphModel dx="1293" dy="767" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -619,6 +619,17 @@
         </mxCell>
         <mxCell id="vu4FwoLVePWW2kg690E7-220" value="пул подготовленных процедур. выполняем когда нужна и склыдываем данные в кеш." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;glass=0;dashed=1;dashPattern=1 1;strokeColor=default;fillColor=#FFFAF2;size=34;position=0.65;position2=1;base=39;" vertex="1" parent="vu4FwoLVePWW2kg690E7-215">
           <mxGeometry x="257" y="196" width="199" height="113" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="lTJF4PD4H_FLO5UAnwlt" name="Страница 2">
+    <mxGraphModel dx="1422" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tyivyCS7H2MmmMx5WTBE-1" value="я пришел, хочу в это приложение" style="rounded=1;whiteSpace=wrap;html=1;glass=0;dashed=1;dashPattern=1 1;strokeColor=default;fillColor=#FFFAF2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
