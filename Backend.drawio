@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T08:34:31.342Z" agent="5.0 (Windows)" etag="-s6kbzSbRmHPQcNOZXRU" version="20.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-19T08:40:56.422Z" agent="5.0 (Windows)" etag="vl7dBiAUo7Iq4VdFAGaR" version="20.6.2" type="github" pages="2">
   <diagram id="Nt1I0_a-7QM22VSomyQ9" name="набросок ">
     <mxGraphModel dx="1652" dy="1024" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -678,19 +678,25 @@
           </mxGeometry>
         </mxCell>
         <object label="Действия" id="vu4FwoLVePWW2kg690E7-215">
-          <mxCell style="" parent="0" visible="0" />
+          <mxCell style="" parent="0" />
         </object>
         <mxCell id="vu4FwoLVePWW2kg690E7-217" value="Создать соединение с нужными параметрами. поддерживать соединение" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;glass=0;dashed=1;dashPattern=1 1;strokeColor=default;fillColor=#FFFAF2;size=38;position=0.21;position2=0.08;base=93;" parent="vu4FwoLVePWW2kg690E7-215" vertex="1">
-          <mxGeometry x="806" y="255" width="199" height="113" as="geometry" />
+          <mxGeometry x="731" y="114" width="199" height="113" as="geometry" />
         </mxCell>
         <mxCell id="vu4FwoLVePWW2kg690E7-218" value="Складывает результат работы процедуры. сохраняя параметры вызова, если будем использовать как кеш" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;glass=0;dashed=1;dashPattern=1 1;strokeColor=default;fillColor=#FFFAF2;size=38;position=0.21;position2=0.08;base=93;" parent="vu4FwoLVePWW2kg690E7-215" vertex="1">
           <mxGeometry x="727" y="671" width="199" height="113" as="geometry" />
         </mxCell>
         <mxCell id="vu4FwoLVePWW2kg690E7-219" value="&lt;div&gt;получить из базы список параметров либо это prepare либо специальная процедура.&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;glass=0;dashed=1;dashPattern=1 1;strokeColor=default;fillColor=#FFFAF2;size=38;position=0.21;position2=0.08;base=93;" parent="vu4FwoLVePWW2kg690E7-215" vertex="1">
-          <mxGeometry x="881" y="438" width="199" height="113" as="geometry" />
+          <mxGeometry x="837" y="374" width="111" height="159" as="geometry" />
         </mxCell>
         <mxCell id="vu4FwoLVePWW2kg690E7-220" value="пул подготовленных процедур. выполняем когда нужна и склыдываем данные в кеш." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;glass=0;dashed=1;dashPattern=1 1;strokeColor=default;fillColor=#FFFAF2;size=34;position=0.65;position2=1;base=39;" parent="vu4FwoLVePWW2kg690E7-215" vertex="1">
           <mxGeometry x="257" y="196" width="199" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="IHDJfV-nGuk11OzXnKAD-20" value="&lt;div&gt;ПАРАМЕТРЫ СОЕДИНЕНИЯ&lt;/div&gt;&lt;div&gt;SERVER NAME&lt;/div&gt;&lt;div&gt;DATABASE&amp;nbsp; ALIAS &lt;br&gt;&lt;/div&gt;&lt;div&gt;ROLE NAME&lt;/div&gt;&lt;div&gt;USER MAME&lt;br&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;glass=0;dashed=1;dashPattern=1 1;strokeColor=default;fillColor=#FFFAF2;size=38;position=0.21;position2=0.08;base=93;" vertex="1" parent="vu4FwoLVePWW2kg690E7-215">
+          <mxGeometry x="1055" y="88" width="176" height="133" as="geometry" />
+        </mxCell>
+        <mxCell id="IHDJfV-nGuk11OzXnKAD-21" value="СОЗДАЕТСЯ ДЛЯ ПОСЛЕДУЮЩЕГО ПОДКЛЮЧЕНИЯ ПОСЛЕ УДАЧНОГО ЛОГИНА К БАЗЕ" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;glass=0;dashed=1;dashPattern=1 1;strokeColor=default;fillColor=#FFFAF2;size=60;position=0.13;position2=0;base=62;flipV=1;" vertex="1" parent="vu4FwoLVePWW2kg690E7-215">
+          <mxGeometry x="1076" y="597" width="188" height="125" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
