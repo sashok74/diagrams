@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-31T19:21:28.340Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="ZOWrrNlZob3hf_IBDcMB" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-31T19:23:50.598Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="PKjRfeqt59SmUaBm459p" version="21.7.1" type="github">
   <diagram name="Страница 1" id="NuXUXsYeg29DZu1f7ixB">
     <mxGraphModel dx="1310" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -269,7 +269,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aJr-1FzdbpRciGmddP03-44" value="&lt;div&gt;производство&lt;/div&gt;" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="40" y="1020" width="1150" height="180" as="geometry" />
+          <mxGeometry x="40" y="1020" width="1200" height="180" as="geometry" />
         </mxCell>
         <mxCell id="aJr-1FzdbpRciGmddP03-45" value="получить маршрутный ярлык" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;taskMarker=abstract;" parent="aJr-1FzdbpRciGmddP03-44" vertex="1">
           <mxGeometry x="110" y="60" width="100" height="50" as="geometry" />
@@ -312,7 +312,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wCB2a_QrU1q0BrsN2EGI-7" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;" vertex="1" parent="aJr-1FzdbpRciGmddP03-44">
-          <mxGeometry x="1080" y="70" width="30" height="30" as="geometry" />
+          <mxGeometry x="1110" y="70" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wCB2a_QrU1q0BrsN2EGI-14" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" vertex="1" parent="aJr-1FzdbpRciGmddP03-44">
           <mxGeometry x="50" y="70" width="30" height="30" as="geometry" />
@@ -327,7 +327,7 @@
             <mxPoint x="406.5" y="890" as="targetPoint" />
             <mxPoint x="1135" y="1090" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1135" y="980" />
+              <mxPoint x="1165" y="980" />
               <mxPoint x="440" y="980" />
             </Array>
           </mxGeometry>
