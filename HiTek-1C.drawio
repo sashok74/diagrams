@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T19:32:40.413Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" version="21.7.5" etag="tX_7aeWJlc2ygXTWnrTi" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T20:11:40.544Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="ozu0Sk2oJYPCB175gt08" version="21.7.5" type="github">
   <diagram name="Страница — 1" id="prxZ_sZAsMWwrXqdjCsl">
-    <mxGraphModel>
+    <mxGraphModel dx="1195" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VUNzH1DyNxndknqQqtnr-2" value="1C УНФ" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="450" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VUNzH1DyNxndknqQqtnr-3" value="Создать заявку" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;taskMarker=abstract;" vertex="1" parent="VUNzH1DyNxndknqQqtnr-2">
+          <mxGeometry x="35" y="25" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VUNzH1DyNxndknqQqtnr-5" value="Создать приходный ордер" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;taskMarker=abstract;" vertex="1" parent="VUNzH1DyNxndknqQqtnr-2">
+          <mxGeometry x="235" y="25" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VUNzH1DyNxndknqQqtnr-6" value="Отгрузить готовые изделия" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;taskMarker=abstract;" vertex="1" parent="VUNzH1DyNxndknqQqtnr-2">
+          <mxGeometry x="135" y="25" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VUNzH1DyNxndknqQqtnr-4" value="Получить актуальную спецификацию" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;taskMarker=abstract;" vertex="1" parent="VUNzH1DyNxndknqQqtnr-2">
+          <mxGeometry x="335" y="25" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VUNzH1DyNxndknqQqtnr-7" value="1C Бух" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="450" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VUNzH1DyNxndknqQqtnr-8" value="Получить производственные документы" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;taskMarker=abstract;" vertex="1" parent="VUNzH1DyNxndknqQqtnr-7">
+          <mxGeometry x="30" y="25" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VUNzH1DyNxndknqQqtnr-9" value="Получить табель сотрудников" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;taskMarker=abstract;" vertex="1" parent="VUNzH1DyNxndknqQqtnr-7">
+          <mxGeometry x="270" y="25" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VUNzH1DyNxndknqQqtnr-10" value="Получить складские документы" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;taskMarker=abstract;" vertex="1" parent="VUNzH1DyNxndknqQqtnr-7">
+          <mxGeometry x="170" y="25" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VUNzH1DyNxndknqQqtnr-11" value="&lt;div&gt;Получить&amp;nbsp;&lt;/div&gt;&lt;div&gt;работы сотрудника&lt;/div&gt;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;taskMarker=abstract;" vertex="1" parent="VUNzH1DyNxndknqQqtnr-7">
+          <mxGeometry x="370" y="25" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VUNzH1DyNxndknqQqtnr-12" value="&lt;div&gt;Сервер синхронизации&lt;/div&gt;" style="swimlane;html=1;startSize=30;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="180" width="930" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VUNzH1DyNxndknqQqtnr-14" value="Экспорт документов" style="swimlane;fontStyle=0" vertex="1" parent="VUNzH1DyNxndknqQqtnr-12">
+          <mxGeometry x="290" y="10" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VUNzH1DyNxndknqQqtnr-15" value="Экспорт справочников" style="swimlane;fontStyle=0" vertex="1" parent="VUNzH1DyNxndknqQqtnr-12">
+          <mxGeometry x="40" y="10" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VUNzH1DyNxndknqQqtnr-16" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Номенклатура&lt;/font&gt;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;dashed=1;dashPattern=5 2 1 2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontSize=8;html=1;whiteSpace=wrap;" vertex="1" parent="VUNzH1DyNxndknqQqtnr-15">
+          <mxGeometry x="20" y="35" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VUNzH1DyNxndknqQqtnr-17" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Контрагенты&lt;/font&gt;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;dashed=1;dashPattern=5 2 1 2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontSize=8;html=1;whiteSpace=wrap;" vertex="1" parent="VUNzH1DyNxndknqQqtnr-15">
+          <mxGeometry x="120" y="35" width="90" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
