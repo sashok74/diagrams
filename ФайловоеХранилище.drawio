@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Страница — 1" id="n2YMTHzbF7AWiFZDebJ6">
-    <mxGraphModel dx="5736" dy="3308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="1034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,8 +31,7 @@
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-39" target="gfHgluWv0_C4Bd2qdqHd-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="757.98" y="165" />
-              <mxPoint x="757.98" y="360" />
+              <mxPoint x="786" y="165" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -54,7 +53,7 @@
           <mxGeometry x="557.98" y="135" width="134" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-43" value="открываем с полным деревом." style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="691.9800000000001" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="726.0000000000001" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-45" target="gfHgluWv0_C4Bd2qdqHd-47">
           <mxGeometry relative="1" as="geometry" />
@@ -83,7 +82,7 @@
           <mxGeometry x="239.99999999999997" y="235" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-50" value="открыть путь для объекта." style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="407.5" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="407.5" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-56" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-9" target="gfHgluWv0_C4Bd2qdqHd-39">
           <mxGeometry relative="1" as="geometry" />
@@ -93,8 +92,8 @@
             <mxPoint x="558.98" y="485" as="sourcePoint" />
             <mxPoint x="517.98" y="565" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="466.98" y="460" />
-              <mxPoint x="622.98" y="460" />
+              <mxPoint x="468" y="440" />
+              <mxPoint x="619" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -103,17 +102,16 @@
             <mxPoint x="748.98" y="485" as="sourcePoint" />
             <mxPoint x="777.98" y="575" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="751.98" y="470" />
-              <mxPoint x="624.98" y="470" />
+              <mxPoint x="786" y="440" />
+              <mxPoint x="621" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gfHgluWv0_C4Bd2qdqHd-66" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-59" target="gfHgluWv0_C4Bd2qdqHd-65">
+        <mxCell id="gfHgluWv0_C4Bd2qdqHd-66" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-59" target="gfHgluWv0_C4Bd2qdqHd-150">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="840" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="437.98" y="700" />
-              <mxPoint x="437.98" y="775" />
-              <mxPoint x="624.98" y="775" />
+              <mxPoint x="372" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -131,20 +129,23 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-59" value="найти файл,&lt;br&gt;который хотим добавить." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="519.98" y="650" width="210" height="90" as="geometry" />
+          <mxGeometry x="516" y="495" width="210" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="gfHgluWv0_C4Bd2qdqHd-82" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-60" target="gfHgluWv0_C4Bd2qdqHd-81">
+        <mxCell id="gfHgluWv0_C4Bd2qdqHd-82" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-159" target="gfHgluWv0_C4Bd2qdqHd-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gfHgluWv0_C4Bd2qdqHd-160" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-60" target="gfHgluWv0_C4Bd2qdqHd-159">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-60" value="Добавление в&lt;br&gt;хранилище." style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="945.48" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="563.5" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-69" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-65" target="gfHgluWv0_C4Bd2qdqHd-75">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="757.98" y="920" as="sourcePoint" />
-            <mxPoint x="1017.98" y="860" as="targetPoint" />
+            <mxPoint x="737.98" y="840" as="sourcePoint" />
+            <mxPoint x="997.98" y="780" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1217.98" y="900" />
+              <mxPoint x="915" y="1240" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -157,12 +158,14 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-65" value="Указаны тип и&lt;br&gt;ID объекта?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="522.48" y="860" width="205" height="80" as="geometry" />
+          <mxGeometry x="521" y="1200" width="205" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gfHgluWv0_C4Bd2qdqHd-76" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-72" target="gfHgluWv0_C4Bd2qdqHd-75">
+        <mxCell id="gfHgluWv0_C4Bd2qdqHd-76" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-72" target="gfHgluWv0_C4Bd2qdqHd-75">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1257.98" y="700" />
+              <mxPoint x="1080" y="700" />
+              <mxPoint x="1080" y="1040" />
+              <mxPoint x="955" y="1040" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -171,59 +174,56 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gfHgluWv0_C4Bd2qdqHd-78" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-72" target="gfHgluWv0_C4Bd2qdqHd-60">
+        <mxCell id="gfHgluWv0_C4Bd2qdqHd-154" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-72" target="gfHgluWv0_C4Bd2qdqHd-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gfHgluWv0_C4Bd2qdqHd-79" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="gfHgluWv0_C4Bd2qdqHd-78">
-          <mxGeometry x="0.0053" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-72" value="Добавить файл" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="897.98" y="660" width="215" height="80" as="geometry" />
+          <mxGeometry x="830" y="660" width="142.02" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-75" value="выход" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1277.98" y="660" width="80" height="80" as="geometry" />
+          <mxGeometry x="915" y="1210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gfHgluWv0_C4Bd2qdqHd-157" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-81" target="gfHgluWv0_C4Bd2qdqHd-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="1060" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="623" y="1160" />
+              <mxPoint x="624" y="1200" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-81" value="Добавился ?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="757.98" y="515" width="110" height="80" as="geometry" />
+          <mxGeometry x="568.5" y="1009" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gfHgluWv0_C4Bd2qdqHd-83" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-81" target="gfHgluWv0_C4Bd2qdqHd-59">
+        <mxCell id="gfHgluWv0_C4Bd2qdqHd-85" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-81" target="gfHgluWv0_C4Bd2qdqHd-75">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="624.98" y="555" />
+              <mxPoint x="674" y="1049" />
+              <mxPoint x="674" y="1040" />
+              <mxPoint x="950" y="1040" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gfHgluWv0_C4Bd2qdqHd-84" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="gfHgluWv0_C4Bd2qdqHd-83">
-          <mxGeometry x="-0.605" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gfHgluWv0_C4Bd2qdqHd-85" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.102;entryY=0.44;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-81" target="gfHgluWv0_C4Bd2qdqHd-75">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="812.98" y="470" />
-              <mxPoint x="1217.98" y="470" />
-              <mxPoint x="1217.98" y="695" />
-            </Array>
+        <mxCell id="gfHgluWv0_C4Bd2qdqHd-161" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="gfHgluWv0_C4Bd2qdqHd-85">
+          <mxGeometry x="-0.5996" y="-3" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-86" value="Создание ссылки на файл. Новой или обновление старой." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="551.48" y="1030" width="147" height="70" as="geometry" />
+          <mxGeometry x="550" y="1370" width="147" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-92" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-88" target="gfHgluWv0_C4Bd2qdqHd-91">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-88" value="Создать путь для объекта." style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="149.99999999999997" y="1184" width="90" height="50" as="geometry" />
+          <mxGeometry x="134.99999999999997" y="1876" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-94" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-91" target="gfHgluWv0_C4Bd2qdqHd-93">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="70" y="1324" />
-              <mxPoint x="70" y="1384" />
-              <mxPoint x="160" y="1384" />
+              <mxPoint x="55" y="2016" />
+              <mxPoint x="55" y="2076" />
+              <mxPoint x="145" y="2076" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -236,18 +236,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-91" value="Определить &lt;br&gt;путь по типу&lt;br&gt;&amp;nbsp;Объекта" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="122.5" y="1284" width="145" height="80" as="geometry" />
+          <mxGeometry x="107.5" y="1976" width="145" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-97" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-93" target="gfHgluWv0_C4Bd2qdqHd-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-93" value="создать путь&amp;nbsp;&lt;br&gt;(Catalog)" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="135" y="1424" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="2116" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-99" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-96" target="gfHgluWv0_C4Bd2qdqHd-98">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="290" y="1574" />
+              <mxPoint x="275" y="2266" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -260,20 +260,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-96" value="&lt;div&gt;Удачно&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="155" y="1544" width="80" height="60" as="geometry" />
+          <mxGeometry x="140" y="2236" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-98" value="Вернуть&lt;br&gt;Catallog ID" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="1674" width="80" height="80" as="geometry" />
+          <mxGeometry x="235" y="2366" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-100" value="Вернуть -1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="55" y="1674" width="80" height="80" as="geometry" />
+          <mxGeometry x="40" y="2366" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-102" value="Вернуть&lt;br&gt;Путь &lt;br&gt;Defolt ID" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1414" width="80" height="80" as="geometry" />
+          <mxGeometry x="305" y="2106" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-108" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-126" target="gfHgluWv0_C4Bd2qdqHd-107">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740" y="1575" as="sourcePoint" />
+            <mxPoint x="725" y="2267" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-128" value="Не найден." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="gfHgluWv0_C4Bd2qdqHd-108">
@@ -285,17 +285,17 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-106" value="Добавление файла в&lt;br&gt;хранилище." style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="655" y="1184" width="150" height="60" as="geometry" />
+          <mxGeometry x="640" y="1876" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-110" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-107" target="gfHgluWv0_C4Bd2qdqHd-109">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-116" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-107" target="gfHgluWv0_C4Bd2qdqHd-115">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="990" y="2035" as="targetPoint" />
+            <mxPoint x="975" y="2727" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="900" y="2035" />
-              <mxPoint x="900" y="2175" />
+              <mxPoint x="885" y="2727" />
+              <mxPoint x="885" y="2867" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -305,23 +305,23 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-107" value="Получить GUID&lt;br&gt;из базы данных." style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="2005" width="120" height="60" as="geometry" />
+          <mxGeometry x="655" y="2697" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-112" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-109" target="gfHgluWv0_C4Bd2qdqHd-111">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-109" value="Разбить GUID&lt;br&gt;на подкаталоги (2)+(1)&amp;nbsp;" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="655" y="2145" width="150" height="60" as="geometry" />
+          <mxGeometry x="640" y="2837" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-114" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-111" target="gfHgluWv0_C4Bd2qdqHd-113">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-117" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-111" target="gfHgluWv0_C4Bd2qdqHd-115">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="990" y="2035" as="targetPoint" />
+            <mxPoint x="975" y="2727" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="900" y="2315" />
-              <mxPoint x="900" y="2175" />
+              <mxPoint x="885" y="3007" />
+              <mxPoint x="885" y="2867" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -331,14 +331,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-111" value="создать каталоги на диске" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="650" y="2285" width="160" height="60" as="geometry" />
+          <mxGeometry x="635" y="2977" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-118" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-113" target="gfHgluWv0_C4Bd2qdqHd-115">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="990" y="2035" as="targetPoint" />
+            <mxPoint x="975" y="2727" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="950" y="2455" />
-              <mxPoint x="950" y="2175" />
+              <mxPoint x="935" y="3147" />
+              <mxPoint x="935" y="2867" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -351,22 +351,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-113" value="Записать файл" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="650" y="2425" width="160" height="60" as="geometry" />
+          <mxGeometry x="635" y="3117" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-115" value="Возврат&amp;nbsp;&lt;br&gt;ошибки" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1149.5" y="2135" width="80" height="80" as="geometry" />
+          <mxGeometry x="1134.5" y="2827" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-146" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-122" target="gfHgluWv0_C4Bd2qdqHd-145">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-122" value="создать запись в&lt;br&gt;FileNodes&amp;nbsp;" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="670" y="2565" width="120" height="60" as="geometry" />
+          <mxGeometry x="655" y="3257" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-127" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-124" target="gfHgluWv0_C4Bd2qdqHd-126">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-124" value="подсчет CRC" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1309" width="120" height="60" as="geometry" />
+          <mxGeometry x="655" y="2001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-130" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-126" target="gfHgluWv0_C4Bd2qdqHd-129">
           <mxGeometry relative="1" as="geometry" />
@@ -377,7 +377,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-126" value="Поиск в базе&lt;br&gt;по CRC" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1449" width="120" height="60" as="geometry" />
+          <mxGeometry x="655" y="2141" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-133" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-129" target="gfHgluWv0_C4Bd2qdqHd-132">
           <mxGeometry relative="1" as="geometry" />
@@ -396,13 +396,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-129" value="Просмотр&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="810" y="1575" width="120" height="80" as="geometry" />
+          <mxGeometry x="795" y="2267" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-140" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-132" target="gfHgluWv0_C4Bd2qdqHd-107">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1190" y="1915" />
-              <mxPoint x="730" y="1915" />
+              <mxPoint x="1175" y="2607" />
+              <mxPoint x="715" y="2607" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -420,25 +420,57 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-132" value="Копия &lt;br&gt;или найденный&amp;nbsp;&lt;br&gt;?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="1759" width="139" height="80" as="geometry" />
+          <mxGeometry x="1105" y="2451" width="139" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-137" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-134" target="gfHgluWv0_C4Bd2qdqHd-132">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-134" value="Показать список&lt;br&gt;найденных файлов." style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="810" y="1769" width="120" height="60" as="geometry" />
+          <mxGeometry x="795" y="2461" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-142" value="Возврат&amp;nbsp;&lt;br&gt;FileNodeID" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="1759" width="80" height="80" as="geometry" />
+          <mxGeometry x="1425" y="2451" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-148" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-145" target="gfHgluWv0_C4Bd2qdqHd-147">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-145" value="Создание записи в&lt;br&gt;FileNodeLog" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="2680" width="120" height="60" as="geometry" />
+          <mxGeometry x="655" y="3372" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-147" value="Возврат&amp;nbsp;&lt;br&gt;FileNodeID" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="691.98" y="2800" width="80" height="80" as="geometry" />
+          <mxGeometry x="676.98" y="3492" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gfHgluWv0_C4Bd2qdqHd-149" value="Создание ссылки на файл. Новой или обновление старой." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1985" y="1810" width="147" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gfHgluWv0_C4Bd2qdqHd-151" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-150" target="gfHgluWv0_C4Bd2qdqHd-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="700" />
+              <mxPoint x="210" y="1100" />
+              <mxPoint x="624" y="1100" />
+              <mxPoint x="624" y="1200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gfHgluWv0_C4Bd2qdqHd-152" value="Добавить&lt;br&gt;найденный" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="gfHgluWv0_C4Bd2qdqHd-151">
+          <mxGeometry x="-0.3583" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gfHgluWv0_C4Bd2qdqHd-155" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-150" target="gfHgluWv0_C4Bd2qdqHd-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gfHgluWv0_C4Bd2qdqHd-156" value="Обновить" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="gfHgluWv0_C4Bd2qdqHd-155">
+          <mxGeometry x="-0.4951" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gfHgluWv0_C4Bd2qdqHd-150" value="Обновить файл" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="290" y="660" width="165.02" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gfHgluWv0_C4Bd2qdqHd-159" value="Выбор локального&lt;br&gt;файла." style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="563.5" y="900" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
