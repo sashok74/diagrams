@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Страница — 1" id="n2YMTHzbF7AWiFZDebJ6">
-    <mxGraphModel dx="4455" dy="2518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5792" dy="3274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -495,7 +495,12 @@
           <mxGeometry x="778.5" y="3330" width="53.5" height="55" as="geometry" />
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-320" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="gfHgluWv0_C4Bd2qdqHd-317" target="gfHgluWv0_C4Bd2qdqHd-309">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="692" y="2400" />
+              <mxPoint x="809" y="2400" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gfHgluWv0_C4Bd2qdqHd-317" value="Создание записи в&lt;br&gt;FileNodeLog" style="whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;hachureGap=4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="632" y="1980" width="120" height="60" as="geometry" />
