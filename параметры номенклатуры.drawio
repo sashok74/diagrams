@@ -26,7 +26,7 @@
           <mxGeometry y="66" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="LVLLRtMR3lNvSjV5_hO3-18" value="ПАРАМЕТРЫ" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="-1290" y="192" width="160" height="190" as="geometry" />
+          <mxGeometry x="-1290" y="207" width="160" height="190" as="geometry" />
         </mxCell>
         <mxCell id="LVLLRtMR3lNvSjV5_hO3-19" value="ИД_ПАРАМЕТРА" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;" parent="LVLLRtMR3lNvSjV5_hO3-18" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry y="162" width="160" height="28" as="geometry" />
         </mxCell>
         <mxCell id="LVLLRtMR3lNvSjV5_hO3-21" value="СПИСОК ЗНАЧЕНИЙ" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="-1090" y="192" width="180" height="182" as="geometry" />
+          <mxGeometry x="-1090" y="207" width="180" height="182" as="geometry" />
         </mxCell>
         <mxCell id="LVLLRtMR3lNvSjV5_hO3-22" value="ИД&lt;span style=&quot;white-space: pre;&quot;&gt;_ЗНАЧЕНИЯ&#x9;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;" parent="LVLLRtMR3lNvSjV5_hO3-21" vertex="1">
           <mxGeometry y="26" width="180" height="26" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry y="156" width="180" height="26" as="geometry" />
         </mxCell>
         <mxCell id="LVLLRtMR3lNvSjV5_hO3-27" value="ПРАВИЛА, СПИСОК ПАРАМЕТРОВ" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="-1580" y="192" width="240" height="182" as="geometry" />
+          <mxGeometry x="-1580" y="207" width="240" height="182" as="geometry" />
         </mxCell>
         <mxCell id="LVLLRtMR3lNvSjV5_hO3-28" value="ИД_ПРАВИЛА" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;" parent="LVLLRtMR3lNvSjV5_hO3-27" vertex="1">
           <mxGeometry y="26" width="240" height="26" as="geometry" />
