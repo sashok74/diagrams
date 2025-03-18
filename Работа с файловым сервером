@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.1">
   <diagram name="Страница — 1" id="qvUJhCStm_ICoEkyeseP">
-    <mxGraphModel dx="859" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="859" dy="2314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,37 +10,30 @@
         <mxCell id="faOCroSFGIkhPE52M-yY-39" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="faOCroSFGIkhPE52M-yY-1" target="faOCroSFGIkhPE52M-yY-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="faOCroSFGIkhPE52M-yY-41" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="faOCroSFGIkhPE52M-yY-1" target="faOCroSFGIkhPE52M-yY-42">
+        <mxCell id="faOCroSFGIkhPE52M-yY-41" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="faOCroSFGIkhPE52M-yY-85" target="faOCroSFGIkhPE52M-yY-42">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="970" y="724" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="faOCroSFGIkhPE52M-yY-87" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="faOCroSFGIkhPE52M-yY-1" target="faOCroSFGIkhPE52M-yY-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="faOCroSFGIkhPE52M-yY-1" value="Перенос файла." style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="910" y="584" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="faOCroSFGIkhPE52M-yY-23" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="faOCroSFGIkhPE52M-yY-4" target="faOCroSFGIkhPE52M-yY-22">
+        <mxCell id="faOCroSFGIkhPE52M-yY-23" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;sketch=1;curveFitting=1;jiggle=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="faOCroSFGIkhPE52M-yY-4" target="faOCroSFGIkhPE52M-yY-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="faOCroSFGIkhPE52M-yY-4" value="входные параметры" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="900" y="150" width="140" height="90" as="geometry" />
+        <mxCell id="faOCroSFGIkhPE52M-yY-4" value="Setup" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="900" y="-10" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="faOCroSFGIkhPE52M-yY-5" value="FileName " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="faOCroSFGIkhPE52M-yY-4">
+        <mxCell id="faOCroSFGIkhPE52M-yY-5" value="Выполнение необходимых действий с " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="faOCroSFGIkhPE52M-yY-4">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="faOCroSFGIkhPE52M-yY-6" value="CatalogID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="faOCroSFGIkhPE52M-yY-4">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="faOCroSFGIkhPE52M-yY-14" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="faOCroSFGIkhPE52M-yY-10" target="faOCroSFGIkhPE52M-yY-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="faOCroSFGIkhPE52M-yY-10" value="Constructor" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="900" y="20" width="140" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="faOCroSFGIkhPE52M-yY-11" value="Пользователь." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="faOCroSFGIkhPE52M-yY-10">
-          <mxGeometry y="30" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="faOCroSFGIkhPE52M-yY-12" value="Данные сервера по умолчанию?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="faOCroSFGIkhPE52M-yY-10">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        <mxCell id="faOCroSFGIkhPE52M-yY-14" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;sketch=1;curveFitting=1;jiggle=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="faOCroSFGIkhPE52M-yY-84" target="faOCroSFGIkhPE52M-yY-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="969.9999999999998" y="-40" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="faOCroSFGIkhPE52M-yY-29" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="faOCroSFGIkhPE52M-yY-17" target="faOCroSFGIkhPE52M-yY-35">
           <mxGeometry relative="1" as="geometry">
@@ -63,7 +56,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="faOCroSFGIkhPE52M-yY-22" value="&lt;div style=&quot;color: #d1ded3;background-color: #273136;font-family: &#39;JetBrains Mono&#39;, Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 16px;line-height: 22px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #a4b07e;&quot;&gt;sGetMetadata&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontStyle=0;startSize=30;labelBackgroundColor=default;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="907.5" y="272.5" width="125" height="30" as="geometry" />
+          <mxGeometry x="905" y="255" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="faOCroSFGIkhPE52M-yY-30" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="faOCroSFGIkhPE52M-yY-35" target="faOCroSFGIkhPE52M-yY-1">
           <mxGeometry relative="1" as="geometry">
@@ -80,16 +73,16 @@
           <mxGeometry x="1090" y="540" width="70" height="66" as="geometry" />
         </mxCell>
         <mxCell id="faOCroSFGIkhPE52M-yY-42" value="Post" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="900" y="700" width="140" height="60" as="geometry" />
+          <mxGeometry x="900" y="800" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="faOCroSFGIkhPE52M-yY-43" value="запись в базу данных всех действий. здесь." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="faOCroSFGIkhPE52M-yY-42">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="faOCroSFGIkhPE52M-yY-46" value="" style="whiteSpace=wrap;html=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="140" width="330" height="520" as="geometry" />
+          <mxGeometry x="1220" y="40" width="330" height="620" as="geometry" />
         </mxCell>
         <mxCell id="faOCroSFGIkhPE52M-yY-53" value="constructor" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="150" width="140" height="90" as="geometry" />
+          <mxGeometry x="1250" y="60" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="faOCroSFGIkhPE52M-yY-54" value="FileName " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="faOCroSFGIkhPE52M-yY-53">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -103,11 +96,9 @@
         <mxCell id="faOCroSFGIkhPE52M-yY-59" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.612;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="faOCroSFGIkhPE52M-yY-22" target="faOCroSFGIkhPE52M-yY-58">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1033" y="290" />
-              <mxPoint x="1070" y="290" />
-              <mxPoint x="1070" y="280" />
-              <mxPoint x="1190" y="280" />
-              <mxPoint x="1190" y="295" />
+              <mxPoint x="1190" y="270" />
+              <mxPoint x="1190" y="300" />
+              <mxPoint x="1249" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -115,16 +106,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="faOCroSFGIkhPE52M-yY-61" value="&lt;div style=&quot;color: rgb(209, 222, 211); background-color: rgb(39, 49, 54); font-family: &amp;quot;JetBrains Mono&amp;quot;, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 16px; line-height: 22px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(164, 176, 126);&quot;&gt;sGetHash&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontStyle=0;startSize=30;labelBackgroundColor=default;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="907.5" y="330" width="125" height="30" as="geometry" />
+          <mxGeometry x="905" y="320" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="faOCroSFGIkhPE52M-yY-64" value="БД интерфейс" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="150" width="90" height="90" as="geometry" />
+          <mxGeometry x="1450" y="50" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="faOCroSFGIkhPE52M-yY-52" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;dashed=1;dashPattern=12 12;exitX=0.519;exitY=0.999;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="faOCroSFGIkhPE52M-yY-67" target="faOCroSFGIkhPE52M-yY-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1360" y="615" />
-              <mxPoint x="1360" y="715" />
+              <mxPoint x="1360" y="765" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -132,12 +123,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1180" y="420" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="faOCroSFGIkhPE52M-yY-69" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="faOCroSFGIkhPE52M-yY-68" target="faOCroSFGIkhPE52M-yY-64">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="faOCroSFGIkhPE52M-yY-68" value="запросы" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="272.5" width="70" height="17" as="geometry" />
         </mxCell>
         <mxCell id="faOCroSFGIkhPE52M-yY-70" value="&lt;span&gt;Обработка ошибок&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#f8cecc;glass=0;" vertex="1" parent="1">
           <mxGeometry x="1280" y="370" width="80" height="95" as="geometry" />
@@ -183,12 +168,62 @@
         <mxCell id="faOCroSFGIkhPE52M-yY-65" value="запросы" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="faOCroSFGIkhPE52M-yY-75">
           <mxGeometry x="140" y="12.5" width="70" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="faOCroSFGIkhPE52M-yY-66" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.569;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="faOCroSFGIkhPE52M-yY-65" target="faOCroSFGIkhPE52M-yY-64">
+        <mxCell id="faOCroSFGIkhPE52M-yY-66" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" target="faOCroSFGIkhPE52M-yY-64">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1470" y="530.55" as="sourcePoint" />
+            <mxPoint x="1511.21" y="130.00000000000006" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1491" y="541" />
+              <mxPoint x="1510" y="531" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="faOCroSFGIkhPE52M-yY-88" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="faOCroSFGIkhPE52M-yY-76" target="faOCroSFGIkhPE52M-yY-89">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="faOCroSFGIkhPE52M-yY-76" value="Souce Path" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="90" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="faOCroSFGIkhPE52M-yY-77" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.522;entryY=0.174;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="faOCroSFGIkhPE52M-yY-89" target="faOCroSFGIkhPE52M-yY-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="faOCroSFGIkhPE52M-yY-78" value="Логика перед записью" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="165" width="230" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="faOCroSFGIkhPE52M-yY-81" value="запросы" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1385" y="272.5" width="70" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="faOCroSFGIkhPE52M-yY-69" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="faOCroSFGIkhPE52M-yY-68" target="faOCroSFGIkhPE52M-yY-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1415" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="faOCroSFGIkhPE52M-yY-68" value="запросы" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1385" y="180" width="70" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="faOCroSFGIkhPE52M-yY-82" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.541;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="faOCroSFGIkhPE52M-yY-81" target="faOCroSFGIkhPE52M-yY-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1499" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="faOCroSFGIkhPE52M-yY-83" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.012;entryY=0.197;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=-0.005;exitY=0.175;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="faOCroSFGIkhPE52M-yY-46" target="faOCroSFGIkhPE52M-yY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="faOCroSFGIkhPE52M-yY-84" value="Действия над фалом" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="930" y="-100" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="faOCroSFGIkhPE52M-yY-85" value="результат копирования&lt;br&gt;хеш&lt;br&gt;размер" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="690" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="faOCroSFGIkhPE52M-yY-89" value="Создаем объект&lt;br&gt;источника" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="915" y="165" width="110" height="52.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
