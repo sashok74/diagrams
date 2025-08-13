@@ -282,7 +282,8 @@
         <mxCell id="eh1QisMZtzwuEmrwzuFO-73" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eh1QisMZtzwuEmrwzuFO-67" target="eh1QisMZtzwuEmrwzuFO-53">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="480" y="881" />
+              <mxPoint x="850" y="881" />
+              <mxPoint x="502" y="881" />
             </Array>
           </mxGeometry>
         </mxCell>
